@@ -6,7 +6,11 @@ The workshop is organized into three files, corresponding to tutorials 0, 1, and
 
 ## Running the notebooks
 
-While running the notebooks and installing `bamojax` is fairly straightforward, installing `jax` and `jaxlib` can be a bit of a pain. I therefore recommend to work in Google Colab. For each notebook, create one code cell up top and add these lines:
+While running the notebooks and installing `bamojax` is fairly straightforward, installing `jax` and `jaxlib` can be a bit of a pain. I therefore recommend to work in Google Colab. For several of the marginal likelihood estimators it'll be beneficial to se a GPU, which on Colab you can select via the Runtime menu. 
+
+### Bamojax installation
+
+For each notebook, create one code cell up top and add these lines:
 
 ```
 # We manually install dependencies
@@ -19,3 +23,5 @@ While running the notebooks and installing `bamojax` is fairly straightforward, 
 This installs `bamojax` and its key dependencies, `numypro`, `blackjax`, and `jaxtyping`.
 
 More information and many examples of models and analyses can be found on the [bamojax github repository](https://github.com/UncertaintyInComplexSystems/bamojax).
+
+The teacher copies contain code cells selecting a JAX visible device; if you are running the code on Google Colab you can safely remove this cell.
