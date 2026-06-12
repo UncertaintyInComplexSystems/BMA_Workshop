@@ -25,3 +25,11 @@ This installs `bamojax` and its key dependencies, `numypro`, `blackjax`, and `ja
 More information and many examples of models and analyses can be found on the [bamojax github repository](https://github.com/UncertaintyInComplexSystems/bamojax).
 
 The teacher copies contain code cells selecting a JAX visible device; if you are running the code on Google Colab you can safely remove this cell.
+
+## Literature
+
+1. Hinne, M., Gronau, Q. F., van den Bergh, D. & Wagenmakers, E.-J. A conceptual introduction to Bayesian model averaging. Advances in Methods and Practices in Psychological Science 3, 200–215 (2020).
+2. Hinne, M. An introduction to Sequential Monte Carlo for Bayesian inference and model comparison—with examples for psychology and behavioral science. Behavior Research Methods 57, (2025).
+3. Hinne, M. Bamojax: Bayesian Modelling with JAX. JOSS 10, 8642 (2025).
+
+
