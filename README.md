@@ -28,8 +28,15 @@ The teacher copies contain code cells selecting a JAX visible device; if you are
 
 ## Literature
 
-1. Hinne, M., Gronau, Q. F., van den Bergh, D. & Wagenmakers, E.-J. A conceptual introduction to Bayesian model averaging. Advances in Methods and Practices in Psychological Science 3, 200–215 (2020).
-2. Hinne, M. An introduction to Sequential Monte Carlo for Bayesian inference and model comparison—with examples for psychology and behavioral science. Behavior Research Methods 57, (2025).
-3. Hinne, M. Bamojax: Bayesian Modelling with JAX. JOSS 10, 8642 (2025).
+1. Gronau, Q. F. et al. A tutorial on bridge sampling. Journal of Mathematical Psychology 81, 80–97 (2017).
+2. Hinne, M., Gronau, Q. F., van den Bergh, D. & Wagenmakers, E.-J. A conceptual introduction to Bayesian model averaging. Advances in Methods and Practices in Psychological Science 3, 200–215 (2020).
+3. Hinne, M. An introduction to Sequential Monte Carlo for Bayesian inference and model comparison—with examples for psychology and behavioral science. Behavior Research Methods 57, (2025).
+4. Hinne, M. Bamojax: Bayesian Modelling with JAX. JOSS 10, 8642 (2025).
+5. Metodiev, M. et al. Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator. Bayesian Anal. 20, (2025).
+
+---
+
+More work by the Uncertainty in Complex Systems lab: https://www.ru.nl/en/departments/donders-centre-for-cognition/uncertainty-in-complex-systems
+
 
 
